@@ -5,7 +5,7 @@ h1, p, img {
 h1,
 p {
   text-align: center;
-  font-family: sans-serif;
+  font-family: arial;
   font-weight: 300;
   color:crimson
 }
@@ -17,9 +17,9 @@ p {
 
 img {
   display: block;
-  width: 250px;
+  width: 290px;
   margin: 0 auto 1rem;
-  transition: .5s;
+  transition: .9s;
   transition-delay: .5s;
 }
 
