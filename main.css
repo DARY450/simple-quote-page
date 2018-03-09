@@ -17,10 +17,10 @@ p {
 
 img {
   display: block;
-  width: 290px;
+  width: 299px;
   margin: 0 auto 1rem;
   transition: .9s;
-  transition-delay: .5s;
+  transition-delay: .7s;
 }
 
 img:hover {
