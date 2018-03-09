@@ -1,6 +1,6 @@
 CDtest1
 
-03 09
+03 09  h 1430   xxx yyy DDD RRRR
 asdasdsd
 
 
